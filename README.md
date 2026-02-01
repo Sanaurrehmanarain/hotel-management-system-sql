@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="SQL_SCENARIOS.md">
+    <img src="project_cover_photo.png" alt="hotel-management-system-sql" width="100%">
+  </a>
+  <p><em>Click the banner to view the full analysis report</em></p>
+</div>
+
 # 🏨 StayManager: High-Performance Hotel Database
 
 ### *A Relational Database System for Dynamic Pricing & Availability Management*
