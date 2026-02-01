@@ -1,5 +1,3 @@
-You're right! The formatting got lost because the document you provided lost all the Markdown syntax. Let me recreate it with proper formatting like the first one I made:
-
 # 🏨 Hotel Management System: SQL Implementation & Results
 
 > **Project:** StayManager Database  
