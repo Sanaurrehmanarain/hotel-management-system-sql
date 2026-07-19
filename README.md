@@ -53,7 +53,40 @@ StayManager is a backend database solution designed to handle the complex date l
     * Run `hotel_data_gen.ipynb` to generate 150+ realistic bookings.
 4.  **Run Analytics:**
     * Open `dashboard.ipynb` to view the financial reports.
+  
+## Citation
+
+If you use this project in academic research, publications, educational
+materials, or derivative works, please cite the project.
+
+This repository includes a `CITATION.cff` file, so GitHub provides a
+**"Cite this repository"** button in the repository sidebar. You can use it
+to obtain citations in BibTeX, APA, and other supported formats.
+
+**Suggested citation:**
+
+Arain, S. U. R. (2026). [Project Name] (Version 1.0) [Software].
+<https://github.com/sanaurrehmanarain/hotel-management-system-sql>
 
 ## 📝 Author
+
 **Sana Ur Rehman Arain**
+
 *SQL Specialist | Backend Developer*
+
+**GitHub:** <https://github.com/sanaurrehmanarain>
+
+**Contact:** <sana.arain.work@gmail.com>
+
+If you build upon this work, attribution is appreciated and helps others
+discover the original project.
+
+> **Note:** The MIT License requires that the original copyright
+> notice be retained in copies of the Software.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the
+[LICENSE](LICENSE) file for details.
