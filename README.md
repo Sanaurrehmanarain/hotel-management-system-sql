@@ -65,7 +65,7 @@ to obtain citations in BibTeX, APA, and other supported formats.
 
 **Suggested citation:**
 
-Arain, S. U. R. (2026). [Project Name] (Version 1.0) [Software].
+Arain, S. U. R. (2026). hotel-management-system-sql (Version 1.0) [Software].
 <https://github.com/sanaurrehmanarain/hotel-management-system-sql>
 
 ## 📝 Author
